@@ -1,6 +1,7 @@
 ---
 title: Liste des recettes saines
 layout: page
+permalink: /recettes/
 ---
 
 Bienvenue sur mon dossier de recettes saines, vous  trouverez ici  des centaines de recettes saines récupérées  ça  et là sur la  toile  et regroupées ici pour  votre plaisir.
