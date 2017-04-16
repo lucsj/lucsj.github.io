@@ -5,7 +5,7 @@ layout: page
 
 Un gâteau aux pommes dans la lignée des carrot cakes américains, avec plein d'épices qui réchauffent le corps et l'esprit quand les jours raccourcissent. Un gâteau très peu sucré mais bien épicé.
 
-## Ingrédients pour 10 "muffins"
+### Ingrédients pour 10 "muffins"
 
 * 450g de pommes
 * 3 oeufs
@@ -20,7 +20,7 @@ Un gâteau aux pommes dans la lignée des carrot cakes américains, avec plein d
 * QS cannelle
 * Pour décorer : sucre complet
 
-## PRÉPARATION
+### PRÉPARATION
 
 + Faites chauffer le Vitaliseur avec 1/4 d'eau.
 + Lavez les pommes, coupez-les en 4 et retirez le trognon (conservez la peau).

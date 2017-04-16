@@ -7,9 +7,9 @@ Bienvenue sur mon dossier de recettes saines, vous  trouverez ici  des centaines
 
 Revenez bientôt pour  voir les premières recettes
 
-## Liste des recettes 
+### Liste des recettes 
 
-### Les desserts 
+#### Les desserts 
 
 * [Apple cake aux épices](https://lucsj.github.io/recettes/apple-cake-aux-epices/)
 
