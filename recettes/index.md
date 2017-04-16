@@ -3,6 +3,17 @@ title: Liste des recettes saines
 layout: page
 ---
 
-Un gâteau aux pommes dans la lignée des carrot cakes américains, avec plein d'épices qui réchauffent le corps et l'esprit quand les jours raccourcissent. Un gâteau très peu sucré mais bien épicé.
+Bienvenue sur mon dossier de recettes saines, vous  trouverez ici  des centaines de recettes saines récupérées  ça  et là sur la  toile  et regroupées ici pour  votre plaisir.
 
-### Liste des recettes
+Revenez bientôt pour  voir les premières recettes
+
+### Liste des recettes 
+
+#### Les desserts 
+
+* [Apple cake aux épices](https://lucsj.github.io/recettes/apple-cake-aux-epices/)
+
+
+Merci de votre visite
+
+Luc S.
