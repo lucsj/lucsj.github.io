@@ -1,6 +1,7 @@
 ---
 title: Apple cake aux épices
 layout: page
+permalink: /apple-cake-aux-epices/
 ---
 
 Un gâteau aux pommes dans la lignée des carrot cakes américains, avec plein d'épices qui réchauffent le corps et l'esprit quand les jours raccourcissent. Un gâteau très peu sucré mais bien épicé.
