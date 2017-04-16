@@ -1,1 +1,67 @@
-<!DOCTYPE html><html>  <head>    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>    {% include meta.html %}    <!--[if lt IE 9]>      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>    <![endif]-->    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->  </head>  <body>    <div class="wrapper-masthead">      <div class="container">        <header class="masthead clearfix">          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>          <div class="site-info">            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>            <p class="site-description">{{ site.description }}</p>          </div>          <nav>            <a href="{{ site.baseurl }}/">Blog</a>            <a href="{{ site.baseurl }}/recettes">Recettes</a>            <a href="{{ site.baseurl }}/about">About</a>			          </nav>        </header>      </div>    </div>    <div id="main" role="main" class="container">      {{ content }}    </div>    <div class="wrapper-footer">      <div class="container">        <footer class="footer">          {% include svg-icons.html %}        </footer>      </div>    </div>    {% include analytics.html %}  </body></html>
+﻿<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
+
+    {% include meta.html %}
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+  </head>
+
+  <body>
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+          <div class="site-info">
+            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+            <p class="site-description">{{ site.description }}</p>
+          </div>
+    <div role="search">
+<script>
+  (function() {
+    var cx = '010735501746484521282:myxh28jkyik';    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<div class="gcse-search"></div>
+</div>
+          <nav>
+            <a accesskey="1" href="{{ site.baseurl }}/">Page d'accueil</a>
+                        <a accesskey="2" href="http://blindhelp.blogspot.fr/">ASTUCE EN INFORMATIQUE ADAPTÉE ET INFOS DIVERS (HORS SUJET) sur Blogger</a>
+            <a accesskey="3" href="https://fr.groups.yahoo.com/neo/groups/allos/info">ALLOS - Yahoo Groupes (Liste de diffusion en français dont ils parlent de NVDA)</a>
+            <a accesskey="4" href="http://angouleme.avh.asso.fr/fichesinfo/fiches_nvda/index.htm">Fiches pour l'apprentissage progressif de NVDA</a>
+ <a accesskey="5" href="http://www.nvda-fr.org/">NVDA - Site francophone</a>
+            <a accesskey="6" href="http://addons.nvda-project.org">Modules complémentaires de NVDA</a>                     
+           <a accesskey="7" href="http://nvaccess.org" hreflang="en">NV Access</a>
+          </nav>
+        </header>
+      </div>
+    </div>
+
+    <div id="main" role="main" class="container">
+      {{ content }}
+    </div>
+
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+          {% include svg-icons.html %}
+        </footer>
+      </div>
+    </div>
+
+        {% include analytics.html %}
+		
+  </body>
+</html>
