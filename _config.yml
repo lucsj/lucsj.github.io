@@ -53,7 +53,7 @@ authors:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: jekyll-theme-leap-day
 gems:
   - jekyll-feed
 exclude:
