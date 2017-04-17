@@ -12,4 +12,5 @@ Ce petit blog  est créé grace à jekyll un système  pas mal foutu qui permet 
 revenez bientôt pour  voir les nouveautées
 
 à  bientôt
+
 Luc S.
