@@ -23,10 +23,10 @@ Un gâteau aux pommes dans la lignée des carrot cakes américains, avec plein d
 
 ### PRÉPARATION
 
-+ Faites chauffer le Vitaliseur avec 1/4 d'eau.
-+ Lavez les pommes, coupez-les en 4 et retirez le trognon (conservez la peau).
-+ Mixez-les grossièrement dans un blender (en utilisant la touche pulse) afin d'obtenir des morceaux de 3mm environ.
-+ Dans un saladier, battez l'huile de coco ramollie et le sucre. Ajoutez les épices selon votre goût et leur puissance, puis les oeufs, la farine de riz et la poudre d'amande, enfin, le bicarbonate et le sel.
-+ Mélangez avec une fourchette, puis ajoutez les pommes râpées.
-+ Répartissez la pâte dans des moules à muffins graissés si nécessaire, saupoudrez d'un peu de sucre complet et cuisez-le dans le panier du Vitaliseur pendant 15 minutes.
-+ Afin de vérifier la cuisson, piquez un des gâteaux avec la pointe d'un couteau qui doit ressortir sèche.
+1. Faites chauffer le Vitaliseur avec 1/4 d'eau.
+2. Lavez les pommes, coupez-les en 4 et retirez le trognon (conservez la peau).
+3. Mixez-les grossièrement dans un blender (en utilisant la touche pulse) afin d'obtenir des morceaux de 3mm environ.
+4. Dans un saladier, battez l'huile de coco ramollie et le sucre. Ajoutez les épices selon votre goût et leur puissance, puis les oeufs, la farine de riz et la poudre d'amande, enfin, le bicarbonate et le sel.
+5. Mélangez avec une fourchette, puis ajoutez les pommes râpées.
+6. Répartissez la pâte dans des moules à muffins graissés si nécessaire, saupoudrez d'un peu de sucre complet et cuisez-le dans le panier du Vitaliseur pendant 15 minutes.
+7. Afin de vérifier la cuisson, piquez un des gâteaux avec la pointe d'un couteau qui doit ressortir sèche.
