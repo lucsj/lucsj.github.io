@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Quelques informations à propos de moi!
 
-### More Information
+### Plus  d'informations
 
-A place to include any other types of information that you'd like to include about yourself.
+Ici bientôt des informations sur ce blog et son créateur
 
-### Contact me
+### Contactez-moi
 
 [email@domain.com](mailto:email@domain.com)
