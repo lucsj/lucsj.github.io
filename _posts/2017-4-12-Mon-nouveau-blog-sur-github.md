@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mon nouveau blog sur github
+author: LucS
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: bienvenue sur le blog lucsj.github.io
+author: LucS
 ---
 
 Bienvenue à tous et à toutes sur mon nouveau blog qui vas vous permettre de consulter plein de mes notes  sur toue mes sujets favorits.
