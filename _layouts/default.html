@@ -22,9 +22,11 @@
 
       <div id="banner">
 	  <span id="logo"></span>
-	  <a href="{{ site.baseurl }}/" class="button"><strong>Accueil</strong></a>
-	  <a href="{{ site.baseurl }}/recettes" class="button"><strong>Recettes</strong></a>
-	  <a href="{{ site.baseurl }}/about" class="button"><strong>A Propos</strong></a>	  
+	  <ul>
+		<li><a href="{{ site.baseurl }}/" class="button"><strong>Accueil</strong></a></li>
+		<li><a href="{{ site.baseurl }}/recettes" class="button"><strong>Recettes</strong></a></li>
+		<li><a href="{{ site.baseurl }}/about" class="button"><strong>A Propos</strong></a></li>
+	  </ul>
 	  {% if site.show_downloads %}
           <div class="downloads">
             <span>Downloads:</span>
