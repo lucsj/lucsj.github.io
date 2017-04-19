@@ -13,7 +13,7 @@ Revenez bientôt pour  voir les premières recettes
 ### Les desserts 
 
 * [Apple cake aux épices](https://lucsj.github.io/recettes/apple-cake-aux-epices/)
-
+* [Bûche de Noël à la crème de marron et au chocolat blan](https://lucsj.github.io/recettes/buche-creme-maron-chocolat-blanc/)
 
 Merci de votre visite
 
